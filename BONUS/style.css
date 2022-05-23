@@ -1,0 +1,37 @@
+#logo {
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+}
+#logoBanner {
+    width: 200px;
+}
+#Titolo-autore-data{
+        margin: 20px 0 20px 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    h4{
+        color: grey;
+    }
+    .evidenziato {
+        background-color: yellow;
+    }
+    
+    #header-table {
+        background-color: rgb(26,170,230);
+        height: 1px;
+        width: 40px;
+    }
+    .table-iniziale {
+        color: white;
+        font: bold;
+        text-align: center;
+    }
+    td{
+    
+        font: bold;
+    }
+    .rigaCeleste{
+        background-color: rgba(178,230,242,255)
+    }
+    
