@@ -1,1 +1,15 @@
-/*ciao*/
+#logo {
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+}
+#logoBanner {
+    width: 200px;
+}
+#Titolo-autore-data{
+        margin: 20px 0 20px 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    h4{
+        color: grey;
+    }
